@@ -1,0 +1,7 @@
+{
+  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "name": "82d1af1e-aa4a-4bdf-a994-e599e71d52c6",
+  "data": {
+    "typeMatch": "ping:0.0.1:local:239fh298fh239h23"
+  }
+}

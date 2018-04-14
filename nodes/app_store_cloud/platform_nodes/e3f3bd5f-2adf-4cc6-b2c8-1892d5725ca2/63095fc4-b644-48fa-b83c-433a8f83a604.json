@@ -1,0 +1,7 @@
+{
+  "type": "text_tag:0.0.1:local:239fj23",
+  "name": "63095fc4-b644-48fa-b83c-433a8f83a604",
+  "data": {
+    "text": "ACTION: return a token for uploading a file to S3"
+  }
+}

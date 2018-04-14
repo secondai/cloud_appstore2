@@ -1,0 +1,14 @@
+{
+  "type": "app_base:Qmtesting",
+  "name": "app_store_cloud",
+  "data": {
+    "appId": "a22a4864-773d-4b0b-bf69-0b2c0bc7f3e0",
+    "name": "Cloud Second with App Store",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "...",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "cloud_appstore2"
+  }
+}
