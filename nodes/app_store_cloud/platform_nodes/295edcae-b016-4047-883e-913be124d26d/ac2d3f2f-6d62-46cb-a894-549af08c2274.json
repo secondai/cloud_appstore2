@@ -1,0 +1,7 @@
+{
+  "type": "text_tag:0.0.1:local:239fj23",
+  "name": "ac2d3f2f-6d62-46cb-a894-549af08c2274",
+  "data": {
+    "text": "ACTION: take a request and search a remote datasource. Does NOT reduce the query at all (that would be handled in a more complex Action type:search_datasources_and_reduce)"
+  }
+}
